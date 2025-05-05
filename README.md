@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently working on data visualization for Infor Cloudsuite Industrial / SyteLine & The Lake Companies Shop-Trak
+Related Technologies: .NET(ASP/ADO/C#/VB), Mongoose, SQL Server (SSAS, SSIS, SSRS)
 <!--
 **shively603/shively603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
